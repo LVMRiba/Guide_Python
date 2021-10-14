@@ -31,10 +31,10 @@ Guia de Comandos Python
 * Matplotlib & Seaborn tutorial: https://jovian.ai/aakashns/python-matplotlib-data-visualization
 * Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
 
-### PYSIMPLEGUI
+#### PYSIMPLEGUI
 WIP
 
-### TKINTER
+#### TKINTER
 WIP
 
 #### EXERCISES, CASE STUDES AND MORE INFOS
