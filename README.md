@@ -39,8 +39,12 @@ WIP
 #### TKINTER
 WIP
 
+### scikit learn
+WIP
+
 #### EXERCISES, CASE STUDES AND MORE INFOS
 * 100 Numpy exercises: https://jovian.ai/aakashns/100-numpy-exercises
 * EDA on StackOverflow Developer Survey: https://jovian.ai/aakashns/python-eda-stackoverflow-survey
 * Opendatasets python package: https://github.com/JovianML/opendatasets
 * EDA starter notebook: https://jovian.ai/aakashns/zerotopandas-course-project-starter
+* Data Science Academy (Python Fundamentals Repository): https://github.com/dsacademybr/PythonFundamentos
