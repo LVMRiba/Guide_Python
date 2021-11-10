@@ -39,7 +39,7 @@ WIP
 #### TKINTER
 WIP
 
-### scikit learn
+### SCIKIT LEARN
 WIP
 
 #### EXERCISES, CASE STUDES AND MORE INFOS
