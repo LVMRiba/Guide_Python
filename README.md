@@ -7,6 +7,8 @@ Guia de Comandos Python
 * Guide: Numpy
 * Guide: Pandas
 * Guide: PySimpleGUI
+* Guide: SciPy
+* Guide: Scikit Learn
 * Guide: TKinter
 
 ### LINK CONTENT:
