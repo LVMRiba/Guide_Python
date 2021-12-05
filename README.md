@@ -46,12 +46,12 @@ WIP
 #### TKINTER
 WIP
 
-### SCIKIT LEARN
+#### SCIKIT LEARN
 Biblioteca para Machine Learning
 
 WIP
 
-#### EXERCISES, CASE STUDES AND MORE INFOS
+### EXERCISES, CASE STUDES AND MORE INFOS
 * 100 Numpy exercises: https://jovian.ai/aakashns/100-numpy-exercises
 * EDA on StackOverflow Developer Survey: https://jovian.ai/aakashns/python-eda-stackoverflow-survey
 * Opendatasets python package: https://github.com/JovianML/opendatasets
