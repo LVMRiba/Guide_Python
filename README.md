@@ -22,14 +22,21 @@ Guia de Comandos Python
 * Working with OS & files: https://jovian.ai/aakashns/python-os-and-filesystem
 
 #### NUMPY
+Biblioteca para cálculos vetoriais e matriciais
+
 * Numpy Documentation: https://numpy.org/doc/stable/user/index.html
 * Numerical computing with Numpy: https://jovian.ai/aakashns/python-numerical-computing-with-numpy
 
 #### PANDAS
+Biblioteca para Planilhas
+
 * Pandas Documentation: https://pandas.pydata.org/docs/
 * Analyzing tabular data with Pandas: https://jovian.ai/aakashns/python-pandas-data-analysis
 
 #### MATPLOTLIB & SEABORN
+Biblioteca para criação de gráficos
+
+* Matplotlib Documentation: https://matplotlib.org/stable/index.html
 * Matplotlib & Seaborn tutorial: https://jovian.ai/aakashns/python-matplotlib-data-visualization
 * Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
 
@@ -40,6 +47,8 @@ WIP
 WIP
 
 ### SCIKIT LEARN
+Biblioteca para Machine Learning
+
 WIP
 
 #### EXERCISES, CASE STUDES AND MORE INFOS
