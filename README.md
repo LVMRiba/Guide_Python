@@ -9,6 +9,8 @@ Guia de Comandos Python
 * Guide: SciPy
 * Guide: Scikit Learn
 * Guide: TKinter
+* Guide: Requests
+* Guide: BeautifulSoup
 
 ### LINK CONTENT:
 
