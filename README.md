@@ -41,6 +41,7 @@ Biblioteca para criação de gráficos
 * Matplotlib Documentation: https://matplotlib.org/stable/index.html
 * Matplotlib & Seaborn tutorial: https://jovian.ai/aakashns/python-matplotlib-data-visualization
 * Data visualization cheat sheet: https://jovian.ai/aakashns/dataviz-cheatsheet
+* Python Graph Gallery: https://www.python-graph-gallery.com/
 
 #### PYSIMPLEGUI
 WIP
