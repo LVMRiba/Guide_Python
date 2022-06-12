@@ -31,7 +31,6 @@ Biblioteca para cálculos vetoriais e matriciais
 #### PANDAS
 Biblioteca para Planilhas
 * **Guide Pandas:** https://github.com/LVMRiba/Guide_Python/blob/main/Guide_Pandas.ipynb
-
 * Pandas Documentation: https://pandas.pydata.org/docs/
 * Analyzing tabular data with Pandas: https://jovian.ai/aakashns/python-pandas-data-analysis
 
